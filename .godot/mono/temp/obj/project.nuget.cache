@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0GaN/ZOAS9Oun3axvov1Pl6F327P4l/J6KNLOJyXKlQ1E/NVRoieVouz5vUsVYBGmNCjEneTuOZMS3jPW/EArA==",
+  "success": true,
+  "projectFilePath": "/Users/ruairi/dev/games/godot-tutorial/godot-tutorial.csproj",
+  "expectedPackageFiles": [
+    "/Users/ruairi/.nuget/packages/godot.sourcegenerators/4.1.1/godot.sourcegenerators.4.1.1.nupkg.sha512",
+    "/Users/ruairi/.nuget/packages/godotsharp/4.1.1/godotsharp.4.1.1.nupkg.sha512",
+    "/Users/ruairi/.nuget/packages/godotsharpeditor/4.1.1/godotsharpeditor.4.1.1.nupkg.sha512",
+    "/Users/ruairi/.nuget/packages/microsoft.netcore.app.ref/6.0.14/microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "/Users/ruairi/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.14/microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
