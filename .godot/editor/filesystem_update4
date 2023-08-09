@@ -1,2 +1,3 @@
-res://Player.tscn
+res://Mob.cs
 res://Player.cs
+res://Main.cs
